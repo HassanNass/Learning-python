@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hassan Nasrallah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **hassannass613@gmail.com**

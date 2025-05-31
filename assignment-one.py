@@ -12,5 +12,12 @@ if graduated == "yes" or graduated == "no":
     print("GPA               : ", gpa)
     print("Field of Interest : ", field)
     print("Graduated         : ", graduated)
+    
+    if age < 25 and gpa >= 3.5 and graduated == "yes":
+        print("You are eligible for A")
+    elif age < 30 and gpa >= 2.5:
+        print("You are eligible for B")
+    else:
+        print("Please apply again later.")
 else:
     print("Please answer with 'yes' or 'no'")
